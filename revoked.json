@@ -3,9 +3,18 @@
  "v": 1,
  "list": {
   "publisher": "BF64-7A94-B312-CDC6",
-  "seq": 1,
-  "issued_utc": "2026-10-22T13:01:11Z",
-  "licenses": []
+  "seq": 2,
+  "issued_utc": "2026-10-22T20:17:41Z",
+  "licenses": [
+   {
+    "id": "2d451d8e466b57a133892ca017d1cb4a",
+    "revoked_utc": "2026-10-22T20:16:56Z"
+   },
+   {
+    "id": "b8e31354d91f0e9bb10366d9b84de82f",
+    "revoked_utc": "2026-10-22T20:16:56Z"
+   }
+  ]
  },
- "sig": "ViLGU7cNyexf0+8sJas/8c5gC4g9Ia9JpcjI3eeOxBmyIFMRmivrG2YU1V4SaQJq4OVLqPvuOFCUbnP6nZ18Bw=="
+ "sig": "yCBNTcVBb4QZsQg2F2w5ppLgE396aZWsF3QYKa6PS9gQN8XMJSFx95iRWGq+zrRETaBzCcf3Sh/2X5l/xyyDBg=="
 }
